@@ -1,20 +1,21 @@
-Agar.io
-slither.io
-Zombs.io
-Wings.io
-Flaap.io
-Diep.io
-Brutal.io
-Gartic.io
-Warbot.io
-Gats.io
-ZombsRoyale.io
-Deeeep.io
-Starblast.io
-Superhex.io
-Paper.io
-Wormax.io
-Wormate.io
-EvoWars.io
-Eatme.io
-Mope.io  
+0.0.0.0 0.0.0.0
+0.0.0.0 Agar.io
+0.0.0.0 slither.io
+0.0.0.0 Zombs.io
+0.0.0.0 Wings.io
+0.0.0.0 Flaap.io
+0.0.0.0 Diep.io
+0.0.0.0 Brutal.io
+0.0.0.0 Gartic.io
+0.0.0.0 Warbot.io
+0.0.0.0 Gats.io
+0.0.0.0 ZombsRoyale.io
+0.0.0.0 Deeeep.io
+0.0.0.0 Starblast.io
+0.0.0.0 Superhex.io
+0.0.0.0 Paper.io
+0.0.0.0 Wormax.io
+0.0.0.0 Wormate.io
+0.0.0.0 EvoWars.io
+0.0.0.0 Eatme.io
+0.0.0.0 Mope.io  
