@@ -1,5 +1,5 @@
 Agar.io
-Slither.io
+slither.io
 Zombs.io
 Wings.io
 Flaap.io
